@@ -20,4 +20,4 @@ powershell sendMail.ps1 <Object du mail> <Message en html/css> <utilisateur 1> <
 
 
 ### c ) Téléchargement du script
-Lien de téléchargement du script : [sendMail.ps1](https://gist.github.com/yoyo1637/PowerShell/sendMail.ps1)
+Lien du script : [sendMail.ps1](https://github.com/yoyo1637/PowerShell/blob/master/sendMail.ps1)
