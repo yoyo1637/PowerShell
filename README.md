@@ -16,7 +16,7 @@ Le script s'execute avec des arguments, qui sont:
 
 Voici la systaxe d'execution du script
 ```
-powershell sendMail.ps1 <Object du mail> <Message en html/css> <utilisateur 1> <utilisateur 2> ... <utilisateur n>
+powershell sendMail.ps1 <Object du mail> <Message en html/css> <destinataire 1> <destinataire 2> ... <destinataire n>
 ```
 
 ### b ) Utilisation du script
