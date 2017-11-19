@@ -25,7 +25,7 @@ powershell sendMail.ps1 <Object du mail> <Message en html/css> <destinataire 1> 
 ### c ) Téléchargement du script
 Lien du script : [sendMail.ps1](https://github.com/yoyo1637/PowerShell/blob/master/sendMail.ps1)
 
-## 1 - Script permettant d'envoyer des mails
+## 2 - Script permettant d'envoyer des mails
 Ce script permet d'envoyer des mails avec un script powershell, très utile en scripting pour envoyer un rapport ou autres messages important. Ce script s'adapte théoriquement à tous serveur smtp, de plus le script est conçu pour utiliser le SSL, ce qui permet de chiffrer les échanges mail. Le support html permet une mise en forme du message. Il respecte les normes html, on peut y inclure aussi css.
 
 ### a ) L'execution du script
