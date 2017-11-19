@@ -7,9 +7,9 @@ Ce script permet d'envoyer des mails avec un script powershell, très utile en s
 
 ### a ) L'execution du script
 Le script s'execute avec des arguments, qui sont:
-   * - L'objet du mail
-   * - Contenue du mail
-   * - Destinataire(s) du mail
+   * L'objet du mail
+   * Contenue du mail
+   * Destinataire(s) du mail
 
 Voici la systaxe d'execution du script
 ```
